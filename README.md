@@ -23,14 +23,14 @@ pip install -r requirements.txt
 
 ---
 
-###🚀 How to Run
+### 🚀 How to Run
 
 bash
 python detect_mask.py
 
 ---
 
-###📌 Features
+### 📌 Features
 
 ->Real-time webcam detection
 ->Detects with-mask and without-mask faces
