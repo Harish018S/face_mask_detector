@@ -5,14 +5,15 @@ This is a real-time Face Mask Detection system built using **Python**, **OpenCV*
 ---
 
 ### 📁 Project Structure
-
+```
 face_mask_detector/
-├── • detect_mask.py # Main script to run mask detection
-├── • mask_detector.model # Pre-trained CNN model
-├── • haarcascade_frontalface_default.xml # Haar Cascade for face detection
-├── • deploy.prototxt # Face detection model config (OpenCV SSD)
-├── • res10_300x300_ssd_iter_140000.caffemodel # Pre-trained face detector
-├── • requirements.txt # Python dependencies
+├── detect_mask.py # Main script to run mask detection
+├── mask_detector.model # Pre-trained CNN model
+├── haarcascade_frontalface_default.xml # Haar Cascade for face detection
+├── deploy.prototxt # Face detection model config (OpenCV SSD)
+├── res10_300x300_ssd_iter_140000.caffemodel # Pre-trained face detector
+├── requirements.txt # Python dependencies
+
 
 ---
 
