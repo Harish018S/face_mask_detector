@@ -1,0 +1,5 @@
+numpy
+python_version == 3.9.12
+tensorflow==2.12.0
+opencv-python
+numpy
