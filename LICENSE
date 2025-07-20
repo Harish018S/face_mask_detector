@@ -24,3 +24,5 @@ SOFTWARE.
 
 - The model file `mask_detector.model` used in this project was sourced from [chandrikadeb7/Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection) and is licensed under the MIT License.
 
+- Some components (e.g., pre-trained files) were obtained from open-source projects and used for educational purposes. If you recognize your work here, feel free to contact me for proper attribution.
+
