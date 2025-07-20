@@ -13,21 +13,23 @@ face_mask_detector/
 ├── deploy.prototxt # Face detection model config (OpenCV SSD)
 ├── res10_300x300_ssd_iter_140000.caffemodel # Pre-trained face detector
 ├── requirements.txt # Python dependencies
-
+```
 
 ---
 
 ### ⚙️ Requirements
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
 ### 🚀 How to Run
 
-bash
+```bash
 python detect_mask.py
+```
 
 ---
 
